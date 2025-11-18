@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Python, C, AI tools, automation & voice assistants**
 
-- 📫 How to reach me **deepakrakshit9449@gmail.com**
+- 📫 How to reach me **deepakrakshit505@gmail.com**
 
 - ⚡ Fun fact **I build side projects at 2 AM for fun 😆**
 
