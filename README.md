@@ -21,7 +21,7 @@
 - 🤝 Open to collaborate on **automation tools, AI mini-projects, and Python utilities**
 - 💬 Ask me about **C, Python, AI tools, automation, and voice assistant development**
 - 📫 Reach me at **deepakrakshit505@gmail.com**
-- ⚡ Fun fact: **I love building side projects at 2 AM—it’s when all my ideas appear 😆**
+- ⚡ Fun fact: **I build side projects at 2 AM for fun 😆**
 - 👨‍💻 Explore all my projects: **[github.com/deepakrakshit](https://github.com/deepakrakshit)**
 
 ---
