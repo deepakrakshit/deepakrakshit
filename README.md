@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=👨‍💻+Aspiring+Software+Engineer;🤖+Building+Jarvis+AI+Assistant;🐍+Python+%26+C%2B%2B+Developer;🚀+Turning+Coffee+into+Code" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;Building+Jarvis+AI+Assistant;Python+and+C%2B%2B+Developer;Turning+Coffee+into+Code" alt="Typing Animation" />
 </p>
 
 <!-- Status Badges -->
