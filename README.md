@@ -1,459 +1,252 @@
-�
+Skip to content
+deepakrakshit
+Repository navigation
+Code
+Issues
+# Hi 👋, I'm Deepak Rakshit
+<div align="center">
 
-�
+### Aspiring Software Engineer | C & Python Developer | AI Enthusiast
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Deepak%20Rakshit&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 
-�
-￼
-�
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=deepakrakshit&label=Profile%20Views&color=0e75b6&style=flat" alt="deepakrakshit" />
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Aspiring+Software+Engineer+%F0%9F%9A%80;C+%26+Python+Developer+%F0%9F%90%8D;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;Building+the+Future%2C+One+Line+at+a+Time+%E2%9C%A8" alt="Typing SVG" /></a>
+<!-- Profile Views Counter with Animation -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deepakrakshit&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/deepakrakshit?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://img.shields.io/github/stars/deepakrakshit?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
+</p>
 
-�
-￼ 
-
-
-�
-
-�
-￼ ￼ ￼ 
-
-
-�
-
-�
-￼ ￼ ￼ 
-
-
-�
-
-�
-￼ ￼ ￼ ￼ 
-
-
-�
-
-�
-￼ 
-
-
-�
-
-�
-
-�
-￼
- About Me
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=deepakrakshit" alt="deepakrakshit" />
+  </a>
+<!-- Animated Snake eating contributions -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepakrakshit/deepakrakshit/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepakrakshit/deepakrakshit/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/deepakrakshit/deepakrakshit/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+---
+<!-- About Me Section with Glowing Effects -->
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> About Me
+```python
 class DeepakRakshit:
     def __init__(self):
         self.username = "deepakrakshit"
         self.name = "Deepak Rakshit"
         self.role = "Aspiring Software Engineer"
         self.location = "India 🇮🇳"
-        self.email = "deepakrakshit505@gmail.com"
-        
-        self.languages = {
-            "expert": ["C", "Python"],
-            "intermediate": ["C++", "HTML", "CSS"],
-            "learning": ["JavaScript", "SQL", "Rust"]
-        }
-        
-        self.current_project = "Jarvis - AI Voice Assistant 🤖"
-        
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Automation Scripts",
-            "Open Source Contribution",
-            "Problem Solving"
+        self.languages = ["C", "C++", "Python", "HTML", "CSS"]
+        self.current_focus = [
+            "Building Jarvis - AI Voice Assistant 🤖",
+            "Data Structures & Algorithms in C++ 📚",
+            "Python Automation & AI/ML 🐍",
+            "Open Source Contributions 🌟"
         ]
-        
-        self.work_schedule = {
-            "day": "Learning & Building",
-            "night": "Debugging & Innovation",
-            "peak_hours": "2AM - 5AM ⚡"
-        }
-        
+        self.hobbies = ["Coding at 2 AM 🌙", "Building Side Projects ⚡", "Learning New Tech 🚀"]
+    
     def say_hi(self):
-        print(f"Hey there! I'm {self.name}, passionate about {self.current_project}")
-        print("Let's build something amazing together! 🚀")
-
+        print("Thanks for dropping by! Let's build something amazing together! 🚀")
 me = DeepakRakshit()
 me.say_hi()
-�
-🎯 Click to see more about me! 
+```
+<br clear="right"/>
+---
+<!-- Current Projects Section -->
+## 🎯 Current Focus & Projects
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+### 🤖 Jarvis - AI Voice Assistant
+A personal AI-powered voice assistant built with Python
+- 🎙️ Voice recognition & synthesis
+- 🧠 Natural language processing
+- 🔧 Home automation integration
+- 📱 Cross-platform support
+</td>
+<td width="50%">
+### 📚 Learning Journey
+Currently mastering cutting-edge technologies
+- 💻 Advanced DSA in C++
+- 🐍 Python Automation & Scripting
+- 🤖 Machine Learning Fundamentals
+- 🌐 Web Development Essentials
+</td>
+</tr>
+</table>
+</div>
+---
+<!-- Tech Stack with Animated Icons -->
+## 🛠️ Tech Arsenal
+<div align="center">
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css" />
+</p>
+### 🧰 Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,windows" />
+</p>
+### 🔮 Currently Exploring
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,django,flask,sqlite" />
+</p>
+</div>
+---
+<!-- GitHub Stats Section with Advanced Animations -->
+## 📊 GitHub Analytics
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakrakshit&custom_title=Deepak's%20Contribution%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Contribution Graph" width="100%">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepakrakshit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F3FBF&icon_color=7F3FBF&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakrakshit&theme=tokyonight&hide_border=true&background=0D1117&ring=7F3FBF&fire=7F3FBF&currStreakLabel=7F3FBF" alt="GitHub Streak" width="48%" />
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakrakshit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F3FBF&text_color=FFFFFF" alt="Top Languages" width="48%" />
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=deepakrakshit&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" width="100%" />
+<!-- 3D Contribution Graph -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=deepakrakshit&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F3FBF&text_color=FFFFFF" alt="Wakatime Stats" width="48%" />
+</div>
+---
+
+### 🚀 About Me
+<!-- Skills Visualization -->
+## 💡 Skills & Expertise
+<div align="center">
+```text
+Programming      ████████████████████░   95%
+Problem Solving  ███████████████████░░   90%
+AI/ML Basics     ████████████░░░░░░░░░   60%
+Automation       ██████████████████░░░   85%
+Team Work        ████████████████████░   95%
+```
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepakrakshit&theme=tokyonight" width="100%" />
+
+- 🔭 Currently building **Jarvis – a personal AI Voice Assistant**
+- 🌱 Learning **Data Structures in C++**, **Python Automation**, and **AI/ML Foundations**
+- 🤝 Open to collaborate on **automation tools, AI mini-projects, and Python utilities**
+- 💬 Ask me about **C, Python, AI tools, automation, and voice assistant development**
+- 📫 Reach me at **deepakrakshit505@gmail.com**
+- ⚡ Fun fact: **I build side projects at 2 AM for fun 😆**
+- 👨‍💻 Explore all my projects: **[github.com/deepakrakshit](https://github.com/deepakrakshit)**
+</div>
+
+---
+
+### 🌐 Connect With Me
+<!-- Projects Showcase -->
+## 🚀 Featured Projects
+
+<p align="left">
+<a href="https://github.com/deepakrakshit" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
+<div align="center">
+<a href="https://github.com/deepakrakshit/jarvis-ai-assistant">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepakrakshit&repo=jarvis-ai-assistant&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F3FBF&icon_color=7F3FBF&text_color=FFFFFF" />
+</a>
+<a href="https://linkedin.com/in/deepakrakshit" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<a href="https://github.com/deepakrakshit/python-automation-tools">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepakrakshit&repo=python-automation-tools&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F3FBF&icon_color=7F3FBF&text_color=FFFFFF" />
+</a>
+<a href="https://instagram.com/de3pakkk" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</div>
+---
+<!-- Connect Section with Animated Icons -->
+## 🌐 Let's Connect!
+<div align="center">
+<a href="https://github.com/deepakrakshit">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://linkedin.com/in/deepakrakshit">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://instagram.com/de3pakkk">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="mailto:deepakrakshit505@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+</p>
+<br><br>
+<!-- Fun Quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank">
+    <img src="https://skillicons.dev/icons?i=c" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" width="40" height="40" />
+  </a>
+</p>
+<!-- Fun Facts Section -->
+## ⚡ Fun Facts
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
+<br><strong>Night Owl 🦉</strong>
+<br>Best code happens at 2 AM
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80">
+<br><strong>AI Enthusiast 🤖</strong>
+<br>Building the future with AI
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="80">
+<br><strong>Problem Solver 🧩</strong>
+<br>Love tackling complex challenges
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+### 📊 GitHub Stats
+<!-- Quote of the Day -->
+<div align="center">
+### 💭 Quote of the Day
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+</div>
+---
+<!-- Visitor Message -->
+<div align="center">
+### 👋 Thanks for Visiting!
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakrakshit&show_icons=true&layout=compact" alt="deepakrakshit" /></p>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Let's connect and build something amazing together!</b></em>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakrakshit&show_icons=true" alt="deepakrakshit" /></p>
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakrakshit" alt="deepakrakshit" /></p>
+</div>
 
-🔭 Currently working on Jarvis – Personal AI Voice Assistant
-🌱 Deep diving into Data Structures (C++), Python Automation, and AI/ML
-👯 Open to collaborate on automation tools, AI projects, and Python utilities
-💬 Ask me about C, Python, AI development, voice assistants, and automation
-📫 Reach out: deepakrakshit505@gmail.com
-⚡ Fun fact: My best ideas come at 2 AM with coffee ☕
-🎯 2025 Goal: Land a Software Engineering role & master AI/ML
-�
-
-�
-
-�
-￼
- Tech Stack & Skills
-�
-
-💻 Languages
-�
-￼ ￼ ￼ ￼ ￼ 
-
-
-🛠️ Tools & Technologies
-�
-￼ ￼ ￼ ￼ ￼ 
-
-
-🤖 AI/ML & Data Science
-�
-￼ ￼ ￼ ￼ ￼ 
-
-
-📚 Currently Learning
-�
-￼ ￼ ￼ ￼ 
-
-
-�
-
-�
-
-�
-￼ 
-
-
-�
-
-�
-￼
-🎯 Current Focus & Projects
-�
-
-🚀 Active Projects
-�
-🤖 Jarvis AI Assistant 
-
-Project: Personal AI Voice Assistant
-Tech Stack: Python, AI/ML, NLP
-Status: In Development 🔄
-Features:
-  - Voice Recognition
-  - Task Automation
-  - Smart Responses
-  - IoT Integration
-�
-
-�
-📚 DSA Mastery 
-
-Focus: Data Structures & Algorithms
-Language: C++
-Goal: Master competitive programming
-Progress: 45% Complete
-�
-
-�
-🐍 Python Automation Suite 
-
-Purpose: Daily task automation
-Scripts: File management, web scraping
-Tools: Selenium, BeautifulSoup
-Impact: 5+ hours saved weekly
-�
-
-�
-
-🌟 Collaboration Interests
-mindmap
-  root((Open To))
-    Automation Tools
-      Python Scripts
-      Task Schedulers
-      File Management
-    AI Projects
-      ML Models
-      Voice Assistants
-      Computer Vision
-    Open Source
-      Bug Fixes
-      Documentation
-      Feature Development
-    Learning
-      Code Reviews
-      Pair Programming
-      Mentorship
-�
-
-�
-
-�
-￼
-📊 GitHub Statistics
-�
-
-�
-
-�
-￼ ￼
-�
-
-�
-￼
-�
-
-�
-￼
-�
-
-�
-
-�
-￼
-📈 Detailed Analytics & Insights
-�
-
-�
-
-�
-￼
-�
-
-�
-￼ ￼ ￼
-�
-
-�
-￼ ￼
-�
-
-�
-
-�
-￼
-🐍 Contribution Snake Animation
-�
-
-�
-
-�
-￼ 
-�
-
-�
-
-�
-￼
-🎯 2025 Roadmap & Goals
-%%{init: {'theme':'dark'}}%%
-timeline
-    title My Learning & Career Journey 2025
-    section Q1
-      Master DSA in C++ : Complete 200+ problems
-                        : Build strong foundation
-      Jarvis v1.0 Release : Voice commands
-                          : Basic automation
-                          : Integration with APIs
-    section Q2
-      Advanced Python : Automation frameworks
-                      : Web scraping mastery
-                      : API development
-      Open Source : Contribute to 10+ projects
-                  : Build personal library
-    section Q3
-      AI/ML Deep Dive : TensorFlow & PyTorch
-                      : Build 5 ML projects
-                      : Deploy models
-      Technical Blog : Share learnings
-                     : Build online presence
-    section Q4
-      Jarvis v2.0 : Advanced AI features
-                  : Cloud integration
-                  : Mobile app
-      Job Ready : Strong portfolio
-                : Interview preparation
-                : Secure SDE role
-�
-
-�
-￼
-💡 Development Philosophy
-�
-
-const philosophy = {
-  code_quality: "Clean, readable, maintainable",
-  learning: "Never stop exploring new technologies",
-  collaboration: "Open source is the future",
-  innovation: "Build solutions that matter",
-  timing: "Best code happens after midnight",
-  fuel: "Coffee.loop(until='success')"
-};
-
-while (true) {
-  learn();
-  code();
-  debug();
-  repeat();
-}
-�
-
-�
-
-�
-￼ 
-
-
-�
-
-�
-￼
-🎵 Spotify Now Playing
-�
-￼ 
-
-
-�
-
-�
-￼
-⚡ Random Dev Facts
-�
-
-🌙 Peak Performance
-Best Hours: 2 AM - 5 AM
-Fuel: ☕ Coffee (Black, Strong)
-Music: Lo-fi Beats / Synthwave
-Environment: Dark Mode Everything
-Debugging: Rubber Duck Method
-�
-
-🎯 Current Streak
-Daily Coding: ✅ Active
-GitHub Commits: 🔥 Hot Streak
-Learning: 📚 Non-Stop
-Side Projects: 🚀 Multiple
-Open Source: 🌟 Contributing
-�
-
-�
-
-�
-￼
-📫 Let's Connect & Collaborate!
-�
-
-💬 Reach Out For
-�
-￼ 
-Code Review 
-Happy to review your code! ￼ 
-Collaboration 
-Let's build together! ￼ 
-Questions 
-Ask me anything! ￼ 
-Chat 
-Always open to talk! 
-📧 Contact Information
-�
-￼ 
-
-
-�
-￼ 
-
-
-🌐 Social Links
-�
-￼ ￼ ￼ 
-
-
-�
-
-�
-
-�
-￼
-🏆 Achievements & Milestones
-�
-
-%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#00D9FF'}}}%%
-graph LR
-    A[🎯 Started Journey] --> B[💻 First C Program]
-    B --> C[🐍 Mastered Python]
-    C --> D[🤖 Built AI Projects]
-    D --> E[📚 Learning DSA]
-    E --> F[🚀 Building Jarvis]
-    F --> G[🌟 Contributing to OS]
-    G --> H[🎓 SDE Role Target]
-    
-    style A fill:#FF6B6B
-    style B fill:#4ECDC4
-    style C fill:#FFE66D
-    style D fill:#95E1D3
-    style E fill:#C7CEEA
-    style F fill:#00D9FF
-    style G fill:#B4F8C8
-    style H fill:#FFA5BA
-�
-
-�
-
-�
-￼
-💭 Latest Thoughts
-�
-
-🎯 Mission Statement
-"Building intelligent solutions, one line of code at a time.
-Empowering automation through AI.
-Making technology accessible and impactful."
-🌟 Favorite Quote
-"The only way to do great work is to love what you do." – Steve Jobs
-⚡ Current Motto
-"Learn in Public, Build in Private, Ship with Confidence"
-�
-
-�
-
-�
-￼
-🎨 GitHub Metrics
-�
-
-�
-
-�
-￼
-�
-
-�
-
-�
-￼
-�
-
-🎉 Thanks for Visiting!
-If you find my work interesting, consider giving it a ⭐
-�
-￼ ￼
-💡 Remember
-"Every expert was once a beginner. Every master was once a disaster."
-Let's build the future together! 🚀
-�
-
-�
-￼
-�
-
-�
-￼
-�
-Made with ❤️ by Deepak Rakshit 
-Last Updated: February 2025 
-
-
-�
