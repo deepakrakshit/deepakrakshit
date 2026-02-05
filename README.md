@@ -194,47 +194,30 @@ Focus:
 ## 🎯 2026 Goals
 
 ```mermaid
-graph TD
-    A["🎯 2026 Goals"]
-
-    A --> B["🧠 Technical Growth"]
-    A --> C["🚀 Projects"]
-    A --> D["💼 Career"]
-
-    B --> B1["Master DSA (C++)"]
-    B --> B2["AI / ML Proficiency"]
-    B --> B3["System Design Basics"]
-    B --> B4["Clean Code & Architecture"]
-
-    C --> C1["Jarvis AI v2.0"]
-    C --> C2["Open Source Contributions"]
-    C --> C3["Personal Portfolio Website"]
-
-    D --> D1["Secure SDE Role"]
-    D --> D2["Strong GitHub Presence"]
-    D --> D3["Technical Blogging"]
-    D --> D4["Interview Readiness"]
-
-    %% Styling (GitHub-supported)
-    style A fill:#00D9FF,color:#000,font-weight:bold
-
-    style B fill:#1E1E2E,color:#FFFFFF
-    style C fill:#1E1E2E,color:#FFFFFF
-    style D fill:#1E1E2E,color:#FFFFFF
-
-    style B1 fill:#2D2D44,color:#FFFFFF
-    style B2 fill:#2D2D44,color:#FFFFFF
-    style B3 fill:#2D2D44,color:#FFFFFF
-    style B4 fill:#2D2D44,color:#FFFFFF
-
-    style C1 fill:#2D2D44,color:#FFFFFF
-    style C2 fill:#2D2D44,color:#FFFFFF
-    style C3 fill:#2D2D44,color:#FFFFFF
-
-    style D1 fill:#2D2D44,color:#FFFFFF
-    style D2 fill:#2D2D44,color:#FFFFFF
-    style D3 fill:#2D2D44,color:#FFFFFF
-    style D4 fill:#2D2D44,color:#FFFFFF
+%%{init: {
+  "theme": "dark",
+  "themeVariables": {
+    "primaryTextColor": "#FFFFFF",
+    "primaryColor": "#00D9FF",
+    "lineColor": "#00D9FF",
+    "tertiaryColor": "#1E1E2E",
+    "background": "#0D1117"
+  }
+}}%%
+mindmap
+  root((2025 Goals))
+    Technical Skills
+      DSA (C++)
+      AI / ML
+      System Design
+    Projects
+      Jarvis AI v2.0
+      Open Source
+      Personal Portfolio
+    Career
+      Software Engineer (SDE)
+      Strong GitHub Presence
+      Technical Blogging
 ```
 
 ---
