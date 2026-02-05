@@ -191,10 +191,10 @@ Focus:
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 <div align="center">
-  <img src="assets/2025-goals-mindmap.svg" alt="2025 Goals Mindmap" width="90%">
+  <img src="assets/2026-goals-mindmap.svg" alt="2026 Goals Mindmap" width="90%">
 </div>
 
 ---
