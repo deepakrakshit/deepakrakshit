@@ -1,8 +1,3 @@
-Skip to content
-deepakrakshit
-Repository navigation
-Code
-Issues
 # Hi 👋, I'm Deepak Rakshit
 <div align="center">
 
