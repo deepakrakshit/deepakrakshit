@@ -143,15 +143,15 @@ me.say_hi()
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepakrakshit/deepakrakshit/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepakrakshit/deepakrakshit/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/deepakrakshit/deepakrakshit/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
+<p align="center">
+  <picture>
+    <!-- Dark mode -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepakrakshit/deepakrakshit/output/github-contribution-grid-snake-dark.svg" />
+    <!-- Light mode -->
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepakrakshit/deepakrakshit/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/deepakrakshit/deepakrakshit/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
@@ -191,34 +191,11 @@ Focus:
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 2025 Goals
 
-```mermaid
-%%{init: {
-  "theme": "dark",
-  "themeVariables": {
-    "primaryTextColor": "#FFFFFF",
-    "primaryColor": "#00D9FF",
-    "lineColor": "#00D9FF",
-    "tertiaryColor": "#1E1E2E",
-    "background": "#0D1117"
-  }
-}}%%
-mindmap
-  root((2025 Goals))
-    Technical Skills
-      DSA (C++)
-      AI / ML
-      System Design
-    Projects
-      Jarvis AI v2.0
-      Open Source
-      Personal Portfolio
-    Career
-      Software Engineer (SDE)
-      Strong GitHub Presence
-      Technical Blogging
-```
+<div align="center">
+  <img src="assets/2025-goals-mindmap.svg" alt="2025 Goals Mindmap" width="90%">
+</div>
 
 ---
 
