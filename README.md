@@ -557,7 +557,7 @@ graph LR
 <p>
   Made with ❤️ by <a href="https://github.com/deepakrakshit">Deepak Rakshit</a>
   <br>
-  <sub>Last Updated: February 2025</sub>
+  <sub>Last Updated: February 2026</sub>
 </p>
 
 </div>
