@@ -125,24 +125,19 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em"
-     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=deepakrakshit&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
-
-<img height="180em"
-     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=deepakrakshit&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepakrakshit&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakrakshit&layout=compact&theme=radical&hide_border=true" />
 
 <br/>
 
-<img width="70%"
-     src="https://streak-stats.demolab.com?user=deepakrakshit&theme=radical&hide_border=true&cache_seconds=1800" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakrakshit&theme=radical&hide_border=true" />
 
 <br/>
 
-<img width="95%"
-     src="https://github-readme-activity-graph.vercel.app/graph?username=deepakrakshit&theme=react-dark&hide_border=true&area=true" />
+<!-- Activity Graph -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=deepakrakshit&theme=react-dark&hide_border=true&area=true" />
 
 </div>
-
 
 ---
 
