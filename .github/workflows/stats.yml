@@ -1,22 +1,63 @@
-name: Generate GitHub Stats
+name: Generate GitHub Stats (Self Hosted)
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *"   # runs twice a day
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
 
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      # -------------------------------
+      # GitHub Stats
+      # -------------------------------
       - name: Generate GitHub Stats
         uses: anuraghazra/github-readme-stats@master
         with:
           username: deepakrakshit
           show_icons: true
-          theme: radical
           include_all_commits: true
           count_private: true
-          output_path: stats.svg
+          theme: radical
+          hide_border: true
+          output_path: assets/github-stats.svg
+
+      # -------------------------------
+      # Top Languages
+      # -------------------------------
+      - name: Generate Top Languages
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: deepakrakshit
+          layout: compact
+          langs_count: 8
+          theme: radical
+          hide_border: true
+          output_path: assets/top-langs.svg
+
+      # -------------------------------
+      # GitHub Streak
+      # -------------------------------
+      - name: Generate GitHub Streak
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          user: deepakrakshit
+          theme: radical
+          hide_border: true
+          output_path: assets/github-streak.svg
+
+      # -------------------------------
+      # Commit files back to repo
+      # -------------------------------
+      - name: Commit generated SVGs
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add assets/*.svg
+          git commit -m "Update GitHub stats" || echo "No changes"
+          git push
