@@ -52,7 +52,7 @@ class DeepakRakshit:
         self.email = "deepakrakshit505@gmail.com"
         
         self.languages = {
-            "expert": ["C", "Python"],
+            "strong": ["C", "Python"],
             "intermediate": ["C++", "HTML", "CSS"],
             "learning": ["JavaScript", "SQL", "Rust"]
         }
