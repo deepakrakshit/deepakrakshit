@@ -125,21 +125,17 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em"
-     src="https://raw.githubusercontent.com/deepakrakshit/deepakrakshit/main/assets/github-stats.svg" />
+<img src="https://github-readme-stats.vercel.app/api?username=deepakrakshit&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Deepak's Stats" height="180" />
 
-<img height="180em"
-     src="https://raw.githubusercontent.com/deepakrakshit/deepakrakshit/main/assets/top-langs.svg" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakrakshit&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" height="180" />
 
 <br/>
 
-<img width="70%"
-     src="https://raw.githubusercontent.com/deepakrakshit/deepakrakshit/main/assets/github-streak.svg" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakrakshit&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" width="80%" />
 
 <br/>
 
-<img width="95%"
-     src="https://github-readme-activity-graph.vercel.app/graph?username=deepakrakshit&theme=react-dark&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakrakshit&theme=react-dark&hide_border=true&area=true&bg_color=0d1117" width="95%" />
 
 </div>
 
