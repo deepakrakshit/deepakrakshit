@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;Building+Jarvis+AI+Assistant;Python+and+C%2B%2B+Developer;Turning+Coffee+into+Code" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;Building+PdfOrbit+AI+PDF+Tool;Python+and+C%2B%2B+Developer;Turning+Coffee+into+Code" alt="Typing Animation" />
 </p>
 
 <!-- Status Badges -->
@@ -57,7 +57,7 @@ class DeepakRakshit:
             "learning": ["JavaScript", "SQL", "Rust"]
         }
         
-        self.current_project = "Jarvis - AI Voice Assistant 🤖"
+        self.current_project = "PdfOrbit - AI-Powered PDF Toolkit 🚀"
         
         self.interests = [
             "Artificial Intelligence",
@@ -81,13 +81,14 @@ me.say_hi()
 
 ### 🎯 Quick Facts
 
-- 🔭 Currently working on **Jarvis – Personal AI Voice Assistant**
+- 🔭 Currently working on **PdfOrbit – AI-powered PDF automation & processing tool**
+- 🚀 Built **PdfOrbit** with AI-assisted development; led architecture, debugging, testing & production deployment
 - 🌱 Deep diving into **Data Structures (C++)**, **Python Automation**, and **AI/ML**
 - 👯 Open to collaborate on **automation tools, AI projects, and Python utilities**
 - 💬 Ask me about **C, Python, AI development, and automation**
 - 📫 Reach out: **deepakrakshit505@gmail.com**
 - ⚡ Fun fact: **My best ideas come at 2 AM with coffee ☕**
-- 🎯 2025 Goal: **Land a Software Engineering role & master AI/ML**
+- 🎯 2026 Goal: Land a Software Engineering role & build impactful AI products
 
 ---
 
@@ -161,15 +162,21 @@ me.say_hi()
 <tr>
 <td width="50%">
 
-### 🤖 Jarvis AI Assistant
+### 📄 PdfOrbit
 ```yaml
-Tech Stack: Python, AI/ML, NLP
+Tech Stack: Python, AI, Automation
 Status: In Development 🔄
+
+Links:
+  - GitHub: https://github.com/deepakrakshit/pdforbit
+  - Website: https://pdforbit.app
+  - API: https://api.pdforbit.app
+
 Features:
-  - Voice Recognition
-  - Task Automation  
-  - Smart Responses
-  - IoT Integration
+  - PDF Processing & Manipulation
+  - AI-powered Insights
+  - Automation Workflows
+  - File Optimization & Conversion
 ```
 
 </td>
@@ -178,11 +185,19 @@ Features:
 ### 📚 DSA Mastery
 ```yaml
 Language: C++
-Goal: Master competitive programming
-Focus: 
-  - Data Structures
-  - Algorithms
-  - Problem Solving
+Status: In Progress 🚀
+
+Focus:
+  - Data Structures (Arrays, Linked Lists, Trees, Graphs)
+  - Algorithms (Recursion, DP, Greedy, Backtracking)
+  - Problem Solving & Pattern Recognition
+
+Platforms:
+  - LeetCode (Active Practice)
+  - GeeksforGeeks
+
+Goal:
+  - Strengthen problem-solving for coding interviews
 ```
 
 </td>
@@ -261,6 +276,6 @@ while (alive) {
 
 **Made with ❤️ by [Deepak Rakshit](https://github.com/deepakrakshit)**
 
-<sub>Last Updated: February 2026</sub>
+<sub>Last Updated: MARCH 2026</sub>
 
 </div>
