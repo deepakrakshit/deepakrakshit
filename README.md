@@ -81,7 +81,7 @@ me.say_hi()
 
 ### 🎯 Quick Facts
 
-- 🔭 Currently working on **PdfOrbit – AI-powered PDF automation & processing tool**
+- 🔭 Currently building **Jarvis – Autonomous AI Assistant with tool reasoning**
 - 🚀 Built **PdfOrbit** with AI-assisted development; led architecture, debugging, testing & production deployment
 - 🌱 Deep diving into **Data Structures (C++)**, **Python Automation**, and **AI/ML**
 - 👯 Open to collaborate on **automation tools, AI projects, and Python utilities**
@@ -182,22 +182,20 @@ Features:
 </td>
 <td width="50%">
 
-### 📚 DSA Mastery
+### 🤖 Jarvis — Autonomous AI Agent
 ```yaml
-Language: C++
-Status: In Progress 🚀
+Tech Stack: Python, AI Agents, Automation
+Status: Advanced Development ⚡
 
-Focus:
-  - Data Structures (Arrays, Linked Lists, Trees, Graphs)
-  - Algorithms (Recursion, DP, Greedy, Backtracking)
-  - Problem Solving & Pattern Recognition
+Links:
+  - GitHub: https://github.com/deepakrakshit/jarvis
 
-Platforms:
-  - LeetCode (Active Practice)
-  - GeeksforGeeks
-
-Goal:
-  - Strengthen problem-solving for coding interviews
+Features:
+  - Agent architecture (planner → validator → executor → synthesizer)
+  - Parallel tool execution (async)
+  - Real-time tools (weather, news, search, system, IP)
+  - Validation + retry system (no hallucinated data)
+  - Smart routing (fast-path vs agent loop)
 ```
 
 </td>
